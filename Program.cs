@@ -6,7 +6,8 @@ namespace GitTeste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Plantasia is god damn good dude!");
+            Console.WriteLine("Bom dia guys");
         }
     }
 }
